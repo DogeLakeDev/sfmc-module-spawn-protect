@@ -4,8 +4,6 @@
   "id": "spawn-protect",
   "name": "出生保护",
   "configKey": "spawn_protect",
-  "enabledByDefault": true,
-  "canDisable": true,
   "requires": [],
   "permissions": [
     "config:read:spawn_protect"
