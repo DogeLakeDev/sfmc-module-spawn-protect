@@ -5,7 +5,7 @@
   "type": "module",
   "description": "SAPI module: 出生与复活保护",
   "license": "ISC",
-  "repository": "git+https://github.com/Tanya7z/sfmc-module-spawn-protect.git",
+  "repository": "git+https://github.com/DogeLakeDev/sfmc-module-spawn-protect.git",
   "main": "sapi/src/index.ts",
   "exports": {
     ".": "./sapi/src/index.ts"
